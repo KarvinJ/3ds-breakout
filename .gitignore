@@ -1,5 +1,5 @@
 /build
 /romfs
-3ds-breakout.3dsx
-3ds-breakout.elf
-3ds-breakout.smdh
+*.3dsx
+*.elf
+*.smdh
